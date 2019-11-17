@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- FrameByForm
+     None
+     © DarkTech, 2019
+	 
+	 The manifest file. -->
+<RevitAddIns>
+  <AddIn Type="Application">
+    <AddInId>59aa4a3d-bf10-4c01-9f34-529c759626ad</AddInId>
+    <Name>Test</Name>
+    <Assembly>Test001/Tests.dll</Assembly>
+    <FullClassName>Orlovtsev.Externals.ExternalApplication</FullClassName>
+    <VendorId>DarkTech</VendorId>
+    <VendorDescription>DarkTech, None</VendorDescription>
+  </AddIn>
+</RevitAddIns>
